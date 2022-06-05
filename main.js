@@ -21,7 +21,7 @@ addToDoButton.addEventListener('click', function(){
 	
 	b2.classList.add('small-styling');
     paragraph.innerText = inputField.value;
-	b1.innerText = "Completed";
+	b1.innerText = "Complete";
 	b2.innerText = "Cancel";
 	newdiv.appendChild(paragraph);
 	newdiv.appendChild(b1);
