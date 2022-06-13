@@ -96,7 +96,7 @@ top:140px;
 
 #toDoContainer{
 font-size: 22px;
- position:relative;
+ position:absolute;
 left:120px;
 top:260px;
 width: 300px;
@@ -262,4 +262,28 @@ transition: 0.5s;
 button:hover:after {
 opacity: 1;
 right: 10px;
+}
+
+#n1{
+  font-size: 24px;
+  position:absolute;
+  left:380px;
+  top:192px;
+  color: rgb(128, 0, 100);
+}
+
+#n2{
+  font-size: 24px;
+  position:absolute;
+  left:745px;
+  top:192px;
+  color: rgb(128, 0, 100);
+}
+
+#n3{
+  font-size: 24px;
+  position:absolute;
+  left:1105px;
+  top:192px;
+  color: rgb(128, 0, 100);
 }
