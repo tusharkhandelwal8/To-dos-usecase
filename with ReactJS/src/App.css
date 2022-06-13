@@ -64,6 +64,21 @@ left:1055px;
 top:140px;
 }
 
+.addbutton2 {
+  width: 60px;
+  height: 30px;
+  border-width: 0;
+border: 1px solid black;
+color: #b61264;
+background-color: white;
+  outline: none;
+  font-size: 14px;
+  vertical-align: middle;
+position:absolute;
+left:1055px;
+top:140px;
+}
+
 #todo{
   font-size: 24px;
   position:absolute;
